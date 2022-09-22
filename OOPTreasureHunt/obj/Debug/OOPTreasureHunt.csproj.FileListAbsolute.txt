@@ -1,0 +1,21 @@
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.AssemblyReference.cache
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe.config
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.pdb
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.exe
+C:\Users\GraveBallSacks\source\repos\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.pdb
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe.config
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.pdb
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.exe
+C:\Users\Casper\Desktop\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.pdb
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe.config
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.exe
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\bin\Debug\OOPTreasureHunt.pdb
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.exe
+C:\Users\Casper\Desktop\Skole projecer\OOPTreasureHunt\OOPTreasureHunt\obj\Debug\OOPTreasureHunt.pdb
